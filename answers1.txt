@@ -1,0 +1,11 @@
+<h3>1. What components are part of the Von Neuman Architecture</h3>
+<p>The Von Neuman Architecture has three distinct components: Central Processing Unit (CPU), Memory and Input/output (I/O)</p>
+<h3>2. What is user space?</h3>
+<p>User space is system memory allocated to running applications.</p>
+<h3>3. What is the shell?</h3>
+<p>A Shell provides you with an interface to the Unix system. Shell is a powerful tool for manipulating data and executing several applications
+under certain conditions</p>
+<h3>4. Where is the shell located?</h3>
+<p>The shell is located in the "user space", and can be used by applications like bash or sh.</p>
+<h3>5. What is the main task of the shell?</h3>
+<p>Shell's primary purpose is to read commands and run other programs.</p>
